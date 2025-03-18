@@ -1,5 +1,3 @@
-# Strength-to-Vertical-Jump-ML-Model
-
 # Vertical Jump Prediction Using Machine Learning  
 
 ## 📌 Project Overview  
